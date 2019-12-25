@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbee97df-964b-4173-ae0c-de882775d211" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="study" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RsH87hMfNf1JakbyyEKB5VDZfN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.study.model.network.response" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sim\Desktop\내폴더\개발\Spring1\study\src\main\java\com\example\study\model\network" />
+      <recent name="C:\Users\Sim\Desktop\내폴더\개발\Spring1\study\src\main\resources" />
+      <recent name="C:\Users\Sim\Desktop\내폴더\개발\Spring1\study\src\main\java\com\example\study\service" />
+      <recent name="C:\Users\Sim\Desktop\내폴더\개발\Spring1\study\src\main\java\com\example\study" />
+      <recent name="C:\Users\Sim\Desktop\내폴더\개발\Spring1\study\src\main\java\com\example\study\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudyApplication (1)">
+    <configuration name="StudyApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.study.StudyApplication" />
+      <module name="study_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.study.StudyApplication" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.study.StudyApplication" />
+      <module name="study_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.study.StudyApplication" />
+      <module name="study_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sim/Desktop/내폴더/개발/Spring1/study [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemSample.createAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.study.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.example.study.sample.ItemSample" />
+      <option name="METHOD_NAME" value="createAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderDetailSample.createOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.study.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.example.study.sample.OrderDetailSample" />
+      <option name="METHOD_NAME" value="createOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderGroupRepositoryTest.create" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="study_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.study.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.example.study.repository.OrderGroupRepositoryTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.read" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="com.example-study.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.study.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.example.study.repository.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="read" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSample.sampleCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.study.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.study.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.example.study.sample.UserSample" />
+      <option name="METHOD_NAME" value="sampleCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="study.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.study.StudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StudyApplication" />
+      <item itemvalue="Application.StudyApplication (1)" />
+      <item itemvalue="Gradle.C:/Users/Sim/Desktop/내폴더/개발/Spring1/study [dependencies]" />
+      <item itemvalue="JUnit.UserRepositoryTest.read" />
+      <item itemvalue="JUnit.OrderGroupRepositoryTest.create" />
+      <item itemvalue="JUnit.ItemSample.createAll" />
+      <item itemvalue="JUnit.UserSample.sampleCreate" />
+      <item itemvalue="JUnit.OrderDetailSample.createOrder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudyApplication (1)" />
+        <item itemvalue="Gradle.C:/Users/Sim/Desktop/내폴더/개발/Spring1/study [dependencies]" />
+        <item itemvalue="JUnit.OrderDetailSample.createOrder" />
+        <item itemvalue="JUnit.UserSample.sampleCreate" />
+        <item itemvalue="JUnit.ItemSample.createAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbee97df-964b-4173-ae0c-de882775d211" name="Default Changelist" comment="" />
+      <created>1570448720535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570448720535</updated>
+      <workItem from="1570448724152" duration="331000" />
+      <workItem from="1570449081635" duration="1703000" />
+      <workItem from="1570450809569" duration="326000" />
+      <workItem from="1570451155675" duration="392000" />
+      <workItem from="1570451571770" duration="249000" />
+      <workItem from="1570451840506" duration="1590000" />
+      <workItem from="1570453468672" duration="71000" />
+      <workItem from="1572359507994" duration="6703000" />
+      <workItem from="1572444810351" duration="4562000" />
+      <workItem from="1572466677220" duration="1328000" />
+      <workItem from="1574087401836" duration="2090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../gitRepository" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Notifications" timestamp="1577281212756">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1577281212756" />
+    <state x="504" y="70" width="580" height="694" key="#StudyApplication_(1)" timestamp="1575686696850">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="504" y="70" width="580" height="694" key="#StudyApplication_(1)/0.0.1536.834@0.0.1536.834" timestamp="1575686696850" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575160721004">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1575160721004" />
+    <state x="1004" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1575297342483">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1004" y="144" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1575297342483" />
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575553537466">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1575553537466" />
+    <state x="603" y="397" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575556685688">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="603" y="397" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1575556685688" />
+    <state x="552" y="275" width="432" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575556407740">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="552" y="275" width="432" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1575556407740" />
+    <state x="529" y="178" key="EnvironmentVariablesDialog" timestamp="1575160783877">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="529" y="178" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1575160783877" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1577283645753">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577283645753" />
+    <state x="649" y="308" width="261" height="217" key="Github.ShareDialog" timestamp="1577283302974">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="649" y="308" width="261" height="217" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1577283302974" />
+    <state x="626" y="123" width="381" height="588" key="Github.UntrackedFilesDialog" timestamp="1577283430232">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="626" y="123" width="381" height="588" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1577283430232" />
+    <state width="1154" height="282" key="GridCell.Tab.0.bottom" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.0.center" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.0.left" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.0.right" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.1.bottom" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.1.center" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.1.left" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state width="1154" height="282" key="GridCell.Tab.1.right" timestamp="1575814940674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1154" height="282" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1575814940674" />
+    <state x="189" y="73" key="SettingsEditor" timestamp="1577283674208">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="189" y="73" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577283674208" />
+    <state x="459" y="153" width="746" height="598" key="find.popup" timestamp="1575812657184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="459" y="153" width="746" height="598" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1575812657184" />
+    <state x="180" y="27" key="new project wizard" timestamp="1576420352772">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="180" y="27" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1576420352772" />
+    <state x="474" y="44" key="refactoring.ChangeSignatureDialog" timestamp="1575210746715">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="44" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1575210746715" />
+    <state x="966" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1575557000935">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="966" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1575557000935" />
+  </component>
+</project>
